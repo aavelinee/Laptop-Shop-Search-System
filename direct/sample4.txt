@@ -1,0 +1,4 @@
+brand model ram hdd price
+apple prom 16 512 50
+asus ux 10 7777 20
+asus nx 8 99999 6
